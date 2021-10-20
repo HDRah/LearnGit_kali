@@ -20,3 +20,5 @@
  # one can use HEAD^ to go to the previous version quickly. also can be HEAD^^, ..., HEAD~100
 2. git log can see the current and previous version id 
 3. git ref lof can see all modification
+
+## Remote repository in Github
