@@ -11,3 +11,5 @@
 7. git checkout # this can redo the modification to the most recent commit/add
 7. git log # this is to see the modification history
 
+## Version control
+
