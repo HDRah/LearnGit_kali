@@ -11,6 +11,8 @@
 7. git checkout -- filename  
  # this can undo the modification to the most recent commit/add (such undo includes deletion)
 8. git log # this is to see the modification history
+9. git rm filename  
+ # this can delete file, followed by git commit -m ''
 
 ## Version control
 
