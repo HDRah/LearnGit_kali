@@ -9,8 +9,8 @@
 6. git reset HEAD filename  
  # this is to undo the mistakenly added files, while the modification will still exist, it just becomes not added
 7. git checkout -- filename  
- # this can redo the modification to the most recent commit/add
-7. git log # this is to see the modification history
+ # this can undo the modification to the most recent commit/add (such undo includes deletion)
+8. git log # this is to see the modification history
 
 ## Version control
 
