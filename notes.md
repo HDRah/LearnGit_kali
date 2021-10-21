@@ -23,4 +23,9 @@
 
 ## Remote repository in Github
 
-1. 
+1. git push origin main: push current main branch to github
+2. git fetch origin main: fetch the origin/main branch, while not modifying the current content, just fetch the remote to local and update the git status
+3. git pull origin main: fetch and merge the origin/main
+4. after fetch, git log origin/main can see the log for the remote branch
+
+## Manage branch
